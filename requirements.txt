@@ -1,0 +1,3 @@
+MySQL Server
+MySQL Workbench
+SQL
